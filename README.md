@@ -1,4 +1,4 @@
-# Vet Clinic Database
+# Decode Morse 
 
 <!-- TABLE OF CONTENTS -->
 
@@ -28,7 +28,7 @@
 
 # 📖 [Decode Morse] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+
 
 **[Decode Morse]** is a project that we use Ruby to solve morse code messages and return a readable message. 
 
@@ -37,8 +37,6 @@
 Ruby
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <!-- <details>
   <summary>Client</summary>
@@ -65,7 +63,6 @@ Ruby
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
 
 - **[Build the dictionary of Morse code]**
 - **[Build the decode methods]**
@@ -87,7 +84,7 @@ TBA
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
+
 
 To get a local copy up and running, follow these steps.
 
@@ -171,7 +168,6 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
 👤 **Vangelis Fotiadis**
 
@@ -190,7 +186,6 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[Add number and symbols to dictionary]**
 
