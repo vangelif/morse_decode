@@ -92,51 +92,40 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Example command:
 
 ```sh
- gem install rails
+ install ruby using software 
 ```
- -->
+
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
+
 
 ```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  cd morse_decode
+  git clone git@github.com:vangelif/morse_decode.git
 ```
---->
+-
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
+
+
 
 ```sh
-  rails server
+ ruby main.rb
 ```
---->
+-
 
 ### Run tests
 
@@ -205,8 +194,6 @@ Feel free to check the [issues page](https://github.com/vangelif/morse_decode/is
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project please click the star button!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -214,8 +201,6 @@ If you like this project please click the star button!
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank Microverse for the inspiration so far.
 
